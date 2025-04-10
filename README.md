@@ -4,9 +4,9 @@ MyPets is SwiftUI / UIKit Project
    
   
 - Functions
-  MVVC archtecture
+  MVVC Archtecture
   Network Manager
-  Firebase authenticate
+  Firebase Authentication 
   CoreData
   Integrate UIKit component in SwiftUI
-  Unit test
+  Unit Tests
