@@ -7,7 +7,7 @@ MyPets is an iOS application that enables users to browse and select their favor
 
 ## 🛠 Technology Stack
 
-### 1. MVVC Architecture
+### 1. MVVM Architecture
 
 **Model:**
 
