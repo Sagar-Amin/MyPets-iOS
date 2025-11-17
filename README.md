@@ -1,7 +1,7 @@
 
 # MyPets
 
-MyPets is an iOS application that enables users to browse and select their favorite pets (cat/dog) along with detailed descriptions. It also features a map view integration that displays all pet shelters across New Jersey.
+MyPets is an iOS app that lets users browse and choose their favorite cats and dogs, view detailed descriptions, and explore pet shelters across New Jersey through an integrated map.
 
 ---
 
